@@ -40,7 +40,7 @@ def main():
             annotated_frame = results[0].plot()
 
             # Display
-            cv2.imshow("LEGO Detection", annotated_frame)
+            cv2.imshow("Hands Detection", annotated_frame)
 
             # Exit condition
             if cv2.waitKey(1) & 0xFF == ord("q"):
