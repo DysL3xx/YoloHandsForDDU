@@ -1,4 +1,4 @@
-# Hands > HANDSHANDSHANDSV2
+# Hands > HANDSV7
 https://universe.roboflow.com/legolegolego/hands-dqc83
 
 Provided by a Roboflow user

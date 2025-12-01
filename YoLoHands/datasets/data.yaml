@@ -8,6 +8,6 @@ names: ['thumbs down', 'thumbs up']
 roboflow:
   workspace: legolegolego
   project: hands-dqc83
-  version: 2
+  version: 9
   license: CC BY 4.0
-  url: https://universe.roboflow.com/legolegolego/hands-dqc83/dataset/2
+  url: https://universe.roboflow.com/legolegolego/hands-dqc83/dataset/9

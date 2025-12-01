@@ -1,5 +1,5 @@
 # webcam_yolo11.py
-# Detect LEGO figures using a trained YOLOv11n model
+# Detect thumbs up using a trained YOLOv11n model
 # Press 'q' to quit
 # pip install opencv-python
 import cv2
@@ -40,7 +40,7 @@ def main():
             annotated_frame = results[0].plot()
 
             # Display
-            cv2.imshow("Hands Detection", annotated_frame)
+            cv2.imshow("thumbs up Detection", annotated_frame)
 
             # Exit condition
             if cv2.waitKey(1) & 0xFF == ord("q"):
